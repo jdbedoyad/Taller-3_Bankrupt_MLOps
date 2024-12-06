@@ -1,2 +1,2 @@
-# Taller-3_Bankrupt_MLOps
-Repositorio de la solución del taller #3 de MLOps
+# Taller 3
+1. El notebook es Punto1_Taller_3_Bankrupt.ipynb
